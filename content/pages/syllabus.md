@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 02dd1f62-cd9c-64d0-ea6f-ac12c5953754
 ---
@@ -45,7 +47,7 @@ These four key areas will be developed in detail.
 
 ### Simulation Software
 
-*   MATLAB® Wavelet Toolbox, Software for Filter Design, Signal Analysis, Image Compression, PDEs, Wavelet Transforms on Complex Geometrical Shapes.  
+*   MATLAB{{< sup "®" >}} Wavelet Toolbox, Software for Filter Design, Signal Analysis, Image Compression, PDEs, Wavelet Transforms on Complex Geometrical Shapes.  
     
 
 We encourage you to learn about wavelets and their applications.

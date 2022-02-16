@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem Set 2
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-327-wavelets-filter-banks-and-applications-spring-2003/389fdc4bd3d21e6b760386280b7d1946_pset2.pdf
+file: /media/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/389fdc4bd3d21e6b760386280b7d1946_pset2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset2.pdf
 uid: 389fdc4b-d3d2-1e6b-7603-86280b7d1946

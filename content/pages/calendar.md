@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f508dfe7-3b03-3833-40fe-8c029190df1a
 ---
@@ -147,7 +149,7 @@ Slides ([PDF]({{< baseurl >}}/resources/slides5))Handouts ([PDF]({{< baseurl >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Wavelet Toolbox
+MATLAB{{< sup "®" >}} Wavelet Toolbox
 {{< tdclose >}}
 {{< tdopen >}}
 

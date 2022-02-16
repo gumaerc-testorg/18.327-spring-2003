@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 4aee0b77-8915-ebce-4ab3-ca45c3d87c06
 ---
@@ -7,7 +10,7 @@ uid: 4aee0b77-8915-ebce-4ab3-ca45c3d87c06
 Software
 --------
 
-### MATLAB® Routines
+### MATLAB{{< sup "®" >}} Routines
 
 Function to generate half-band product filters ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/prodfilt.m))  
 Polyphase implementation of a filter ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/polyfilt.m))  
@@ -15,7 +18,7 @@ Computation of Daubechies' filter coefficients (cepstrum method) ([M](/courses/m
 Computation of minimum phase spectral factors (cepstrum method) ([M]({{< baseurl >}}/pages/tools/specfacm.htm))  
 Computation of scaling function and wavelet by recursion ([M]({{< baseurl >}}/pages/tools/phivalsm.htm))
 
-### MATLAB® Examples
+### MATLAB{{< sup "®" >}} Examples
 
 Example 1: Basic filters, upsampling and downsampling ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/example1.m))  
 Example 2: Product filter examples ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/example2.m)) \[Needs prodfilt.m ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/prodfilt.m))\]  
@@ -30,7 +33,7 @@ Example 10: Polynomial cancellation in filter banks ([M](/courses/mathematics/18
 Example 11: Smoothness of wavelet bases ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/example11.m))  
 Example 12: Treatment of boundaries ([M](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/tools/example12.m))
 
-### Java® Applets
+### Java{{< sup "®" >}} Applets
 
 Inner Products of Functions  
 [Sums of a Trigonometric Series](http://www.math.drexel.edu/~pg/java/la_applets/FourierSynthesis/index.html)  

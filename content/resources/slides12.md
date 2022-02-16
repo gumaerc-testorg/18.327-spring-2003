@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Slide 12: Mallat Pyramid Algorithm.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-327-wavelets-filter-banks-and-applications-spring-2003/cdd4897d6c93043df04593648bb1ecd7_Slides12.pdf
+file: /media/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/cdd4897d6c93043df04593648bb1ecd7_Slides12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Slides12.pdf
 uid: cdd4897d-6c93-043d-f045-93648bb1ecd7

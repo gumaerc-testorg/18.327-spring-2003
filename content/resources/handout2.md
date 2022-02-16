@@ -5,8 +5,13 @@ description: 'Handout 2: Sampling Rate Change Operations:
   Upsampling and Downsampling;
 
   Fractional Sampling; Interpolation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-327-wavelets-filter-banks-and-applications-spring-2003/8c2863a0c6229a0755ff3a910c260307_Handout2.pdf
+file: /media/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8c2863a0c6229a0755ff3a910c260307_Handout2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Handout2.pdf
 uid: 8c2863a0-c622-9a07-55ff-3a910c260307

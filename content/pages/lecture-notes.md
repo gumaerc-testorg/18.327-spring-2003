@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cb486913-197d-c062-7d9b-c7d5225177ad
 ---
@@ -84,7 +87,7 @@ Handout 5 ([PDF]({{< baseurl >}}/resources/handout5))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MATLAB® Wavelet Toolbox
+MATLAB{{< sup "®" >}} Wavelet Toolbox
 {{< tdclose >}}
 {{< tdopen >}}
 Slides 6 ([PDF]({{< baseurl >}}/resources/slides6))
