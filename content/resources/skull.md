@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 02dd1f62-cd9c-64d0-ea6f-ac12c5953754
 resourcetype: Image
 title: skull.jpg
 uid: a80db1a7-11ca-b016-f093-4c59630f51eb
