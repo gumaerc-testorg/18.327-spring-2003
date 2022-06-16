@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 9: Approximation power of wavelet bases'
-file: /media/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/d66070f80fc74b8f82011c3840401305_example9.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/d66070f80fc74b8f82011c3840401305_example9.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: example9.m
 uid: d66070f8-0fc7-4b8f-8201-1c3840401305
 ---
+Example 9: Approximation power of wavelet bases
+
