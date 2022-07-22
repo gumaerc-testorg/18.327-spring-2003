@@ -6,6 +6,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/02f4775
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Slide 13: Accuracy of Wavelet Approximations (Condition A); Vanishing Moments; Polynomial Cancellation in Filter Banks.
-

@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/0b0c4d8
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: example5.m
 uid: 0b0c4d88-c179-8e24-2d09-3d41212b0815
 ---
 Example 5: Polyphase filter implementation
-

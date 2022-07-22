@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/d66070f
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: example9.m
 uid: d66070f8-0fc7-4b8f-8201-1c3840401305
 ---
 Example 9: Approximation power of wavelet bases
-

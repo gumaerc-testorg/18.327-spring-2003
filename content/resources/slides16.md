@@ -6,6 +6,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/b198beb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Slide 16: Lifting: Ladder Structure for Filter Banks; Factorization of Polyphase Matrix into Lifting Steps; Lifting form of Refinement Equation.
-

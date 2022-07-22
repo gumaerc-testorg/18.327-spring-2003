@@ -6,6 +6,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/9ae8fd2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout 3: Filter Banks: Time Domain (Haar example) and Frequency Domain; Conditions for Alias Cancellation and no Distortion.
-

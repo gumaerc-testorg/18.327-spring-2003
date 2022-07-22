@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/0857ff4
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: polyfilt.m
 uid: 0857ff46-4fca-9d0f-ed72-4105eb678682
 ---
 Polyphase implementation of a filter
-

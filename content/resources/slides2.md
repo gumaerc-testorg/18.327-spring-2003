@@ -6,6 +6,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/aa27dbf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Slide 2: Sampling Rate Change Operations: Upsampling and Downsampling; Fractional Sampling; Interpolation
-

@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/cc6ca7b
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: example1.m
 uid: cc6ca7b3-7ab2-1ab9-38e3-7440fa1d6a9d
 ---
 Example 1: Basic filters, upsampling and downsampling
-

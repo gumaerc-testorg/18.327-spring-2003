@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8c1beb5
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: example10.m
 uid: 8c1beb56-7d88-0300-2c88-8c78c95e57d0
 ---
 Example 10: Polynomial cancellation in filter banks
-

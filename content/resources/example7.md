@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/51d15bd
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: example7.m
 uid: 51d15bd9-a55c-f249-1809-19dc0a17dbb3
 ---
 Example 7: Generation of biorthogonal scaling functions and wavelets.
-

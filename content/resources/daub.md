@@ -5,6 +5,7 @@ file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/0127eef
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: daub.m
 uid: 0127eef1-2b6b-880e-4f43-51bf5b77991e
 ---
 Computation of Daubechies' filter coefficients (cepstrum method)
-
