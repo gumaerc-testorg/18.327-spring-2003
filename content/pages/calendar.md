@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f508dfe7-3b03-3833-40fe-8c029190df1a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The course grade is based primarily on the class project (presentation + final report). Approximate breakdown: Project: 90%, Homework: 10%.
@@ -45,7 +52,7 @@ Sec 1.1-1.4, 2.1
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides1))Handouts ([PDF]({{< baseurl >}}/resources/handout1))
+Slides ({{% resource_link cda4e0ba-c613-154f-c8bf-04506de5df1f "PDF" %}})Handouts ({{% resource_link c582ab14-f4b0-657b-1b2a-432724371653 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -67,7 +74,7 @@ Sec 3.1-3.3
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides2))Handouts ([PDF]({{< baseurl >}}/resources/handout2))
+Slides ({{% resource_link aa27dbf6-7542-2d95-6f17-129fe72d3852 "PDF" %}})Handouts ({{% resource_link 8c2863a0-c622-9a07-55ff-3a910c260307 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -89,12 +96,12 @@ Sec 4.1
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides3))Handouts ([PDF]({{< baseurl >}}/resources/handout3))
+Slides ({{% resource_link 204a8264-59bc-8236-e14f-4787e1575cc2 "PDF" %}})Handouts ({{% resource_link 9ae8fd2b-4313-aea9-cb1d-828e3d431301 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-HW 1 out ([PDF]({{< baseurl >}}/resources/pset1))
+HW 1 out ({{% resource_link 04c04912-cebb-9b7b-795e-5a3a82227c59 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +118,7 @@ Sec 4.1
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides4))Handouts ([PDF]({{< baseurl >}}/resources/handout4))
+Slides ({{% resource_link efcb0bfb-a4a0-e185-9eb5-b32e3913d1cc "PDF" %}})Handouts ({{% resource_link e6928313-22c0-254b-c40d-ea8d454bb7e6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -133,7 +140,7 @@ Sec 3.4, 4.1-4.4
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides5))Handouts ([PDF]({{< baseurl >}}/resources/handout5))
+Slides ({{% resource_link 78a5cba6-ed01-f45b-dca9-3d41f5885af2 "PDF" %}})Handouts ({{% resource_link 48b610fc-0f1c-c941-fb7d-1677d48b7a1f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -147,12 +154,12 @@ Slides ([PDF]({{< baseurl >}}/resources/slides5))Handouts ([PDF]({{< baseurl >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Wavelet Toolbox
+MATLAB{{< sup "®" >}} Wavelet Toolbox
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides6))Handouts ([PDF]({{< baseurl >}}/resources/handout6))
+Slides ({{% resource_link b9ca0fae-da12-41bf-f43a-b558688b0a1c "PDF" %}})Handouts ({{% resource_link a26eaea0-0f7d-a8ad-fc07-f302254148d5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -161,7 +168,7 @@ Slides ([PDF]({{< baseurl >}}/resources/slides6))Handouts ([PDF]({{< baseurl >}}
 
 HW 1 due
 
-HW 2 out ([PDF]({{< baseurl >}}/resources/pset2))
+HW 2 out ({{% resource_link 389fdc4b-d3d2-1e6b-7603-86280b7d1946 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +190,7 @@ Sec 5.1-5.2
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides7))Handouts ([PDF]({{< baseurl >}}/resources/handout7))
+Slides ({{% resource_link 4ad5423f-6762-e356-acb1-6ad9465401cf "PDF" %}})Handouts ({{% resource_link f95f7897-eb0d-62fc-82ab-88c3ae3937e6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -205,7 +212,7 @@ Sec 5.3-5.5
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides8))Handouts([PDF]({{< baseurl >}}/resources/handout8))
+Slides ({{% resource_link a5cd4d66-8e0c-bd54-ab82-ff69f16b68dd "PDF" %}})Handouts({{% resource_link 29303d64-110d-5953-075d-8f3781ce61fe "PDF" %}})
 
 
 {{< tdclose >}}
@@ -227,7 +234,7 @@ Sec 1.5, 6.1
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides9))Handouts ([PDF]({{< baseurl >}}/resources/handout9))
+Slides ({{% resource_link 4b68ae27-5bb7-15c3-12be-bc897b00c809 "PDF" %}})Handouts ({{% resource_link ecc72430-047e-dfe3-b412-1d333958cc13 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -249,7 +256,7 @@ Sec 6.2-6.4
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides10))Handouts ([PDF]({{< baseurl >}}/resources/handout10))
+Slides ({{% resource_link 5df23adb-cc89-48bd-e718-ebc22943a6c0 "PDF" %}})Handouts ({{% resource_link 9ff64f06-3053-31f3-5d46-753341de2346 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -258,7 +265,7 @@ Slides ([PDF]({{< baseurl >}}/resources/slides10))Handouts ([PDF]({{< baseurl >}
 
 HW 2 due
 
-HW 3 out ([PDF]({{< baseurl >}}/resources/pset3))
+HW 3 out ({{% resource_link b08a46ea-ef68-45fc-19e2-477d01892246 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -295,7 +302,7 @@ Sec 6.2, 6.4, 6.5
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides11))Handouts ([PDF]({{< baseurl >}}/resources/handout11))
+Slides ({{% resource_link 6397d22a-8ad1-997a-9b13-5eed1790ed3e "PDF" %}})Handouts ({{% resource_link 1bb693ef-eb7d-2ea9-7f12-ae72812f7522 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -317,7 +324,7 @@ Sec 1.6, 6.2
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides12))Handouts ([PDF]({{< baseurl >}}/resources/handout12))
+Slides ({{% resource_link cdd4897d-6c93-043d-f045-93648bb1ecd7 "PDF" %}})Handouts ({{% resource_link fb4570f8-72fd-8f6e-e37a-d3cbcb10e59b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -339,7 +346,7 @@ Sec 7.1
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides13))Handouts ([PDF]({{< baseurl >}}/resources/handout13))
+Slides ({{% resource_link 02f47751-bfd6-6dc1-541d-1f372b2b0e0e "PDF" %}})Handouts ({{% resource_link 99231bc0-f90b-8750-8c01-a2e7f5a960e7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -361,7 +368,7 @@ Sec 7.2-7.4
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides14))Handouts ([PDF]({{< baseurl >}}/resources/handout14))
+Slides ({{% resource_link 16f2b5fd-4120-1235-45f5-b78bef197a2e "PDF" %}})Handouts ({{% resource_link b681a52d-d1ff-c62e-ef7e-1eb27222f94e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -383,7 +390,7 @@ Sec 8.1-8.3, 8.5, 10.1, 11.1-11.5
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides15))Handouts ([PDF]({{< baseurl >}}/resources/handout15))
+Slides ({{% resource_link 95977c1d-7a18-a965-5616-7799d3f785f8 "PDF" %}})Handouts ({{% resource_link d22d96de-a13c-0396-474b-1d87439fc4d0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -423,7 +430,7 @@ Sec 6.5
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides16))Handouts ([PDF]({{< baseurl >}}/resources/handout16))
+Slides ({{% resource_link b198beb3-2cf9-c547-eea8-af2f29b9ca2d "PDF" %}})Handouts ({{% resource_link 6e127be1-364a-05bd-0009-578ebfbdcde4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -442,11 +449,11 @@ Wavelets and Subdivision: Nonuniform Grids; Multiresolution for Triangular Meshe
 {{< tdopen >}}
 
 
-Slides 1 ([PDF]({{< baseurl >}}/resources/slides17))  
-Slides 2 ([PDF]({{< baseurl >}}/resources/slides18))
+Slides 1 ({{% resource_link 865cc03e-d453-27c9-00f8-a651366afe8d "PDF" %}})  
+Slides 2 ({{% resource_link 78ffc7dc-83cd-b61a-908e-f5de9698678b "PDF" %}})
 
 Handouts  
-1 ([PDF]({{< baseurl >}}/resources/handout17))Handouts 2 ([PDF]({{< baseurl >}}/resources/handout18))
+1 ({{% resource_link e89a4a91-7379-d0cf-0da2-87f6c6f4f384 "PDF" %}})Handouts 2 ({{% resource_link b03ed846-efb1-3642-9e2c-3e8851d207e1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -471,7 +478,7 @@ Sec 11.6
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides19))Handouts ([PDF]({{< baseurl >}}/resources/handout19))
+Slides ({{% resource_link 049125d3-4ef3-4473-350f-7ab29777d97e "PDF" %}})Handouts ({{% resource_link 45c9ca70-2f94-b8e2-d505-701c73636917 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -493,7 +500,7 @@ Sec 7.5, 9.1-9.4
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/slides20))Handouts ([PDF]({{< baseurl >}}/resources/handout20))
+Slides ({{% resource_link 655aa1a6-539f-f8a7-a9bb-152bf31ec6bc "PDF" %}})Handouts ({{% resource_link f3bdc7ee-67e4-f124-7633-134ce1604609 "PDF" %}})
 
 
 {{< tdclose >}}

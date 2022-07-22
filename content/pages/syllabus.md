@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 02dd1f62-cd9c-64d0-ea6f-ac12c5953754
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -45,12 +52,12 @@ These four key areas will be developed in detail.
 
 ### Simulation Software
 
-*   MATLAB® Wavelet Toolbox, Software for Filter Design, Signal Analysis, Image Compression, PDEs, Wavelet Transforms on Complex Geometrical Shapes.  
+*   MATLAB{{< sup "®" >}} Wavelet Toolbox, Software for Filter Design, Signal Analysis, Image Compression, PDEs, Wavelet Transforms on Complex Geometrical Shapes.  
     
 
 We encourage you to learn about wavelets and their applications.
 
-![Multiresolution representation of a complex shape.](/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003/syllabus/skull.jpg)
+{{< resource "a80db1a7-11ca-b016-f093-4c59630f51eb" >}}
 
 Multiresolution representation of a complex shape. Courtesy of Igor  
 Guskov, University of Michigan. Used with permission.
