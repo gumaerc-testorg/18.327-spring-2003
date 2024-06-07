@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handout 7: Orthogonal Filter Banks: Paraunitary Matrices; Orthogonality
   Condition (Condition O) in the Time Domain, Modulation Domain and Polyphase Domain.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/f95f7897eb0d62fc82ab88c3ae3937e6_Handout7.pdf
+file_size: 132928
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

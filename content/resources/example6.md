@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example 6: Generation of orthogonal scaling functions and wavelets.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/ed01565fb2a29b6e93832b34b4464a6b_example6.m
+file_size: 1819
 file_type: text/plain
 learning_resource_types:
 - Tools
