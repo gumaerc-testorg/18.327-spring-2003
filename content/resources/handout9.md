@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handout 9: Multiresolution Analysis (MRA): Requirements for MRA; Nested
   Spaces and Complementary Spaces; Scaling Functions and Wavelets.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/ecc72430047edfe3b4121d333958cc13_Handout9.pdf
+file_size: 167092
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

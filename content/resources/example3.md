@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example 3: 1-D signal analysis'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/a6a8831db4d686d9369bea34b955f82e_example3.m
+file_size: 5679
 file_type: text/plain
 learning_resource_types:
 - Tools

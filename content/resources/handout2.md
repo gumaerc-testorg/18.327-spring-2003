@@ -6,6 +6,7 @@ description: 'Handout 2: Sampling Rate Change Operations:
 
   Fractional Sampling; Interpolation.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8c2863a0c6229a0755ff3a910c260307_Handout2.pdf
+file_size: 136058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

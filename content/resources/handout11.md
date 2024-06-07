@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handout 11: Orthogonal Wavelet Bases: Connection to Orthogonal Filters;
   Orthogonality in the Frequency Domain. Biorthogonal Wavelet Bases.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/1bb693efeb7d2ea97f12ae72812f7522_Handout11.pdf
+file_size: 280151
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

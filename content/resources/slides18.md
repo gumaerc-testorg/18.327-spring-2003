@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slide 18: Wavelets and Subdivision: Nonuniform Grids; Multiresolution
   for Triangular Meshes; Representation and Compression of Surfaces (continued)'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/78ffc7dc83cdb61a908ef5de9698678b_Slides18.pdf
+file_size: 698196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

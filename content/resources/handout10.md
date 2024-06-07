@@ -12,6 +12,7 @@ description: 'Handout 10: Wavelets and Filter Banks
 
   Functions and Wavelets.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/9ff64f06305331f35d46753341de2346_Handout10.pdf
+file_size: 312516
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
