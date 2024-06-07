@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handout 4: Filter Banks (contd.): Perfect Reconstruction; Halfband Filters
   and Possible Factorizations.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/e692831322c0254bc40dea8d454bb7e6_Handout4.pdf
+file_size: 338022
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

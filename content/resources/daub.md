@@ -2,6 +2,7 @@
 content_type: resource
 description: Computation of Daubechies' filter coefficients (cepstrum method)
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/0127eef12b6b880e4f4351bf5b77991e_daub.m
+file_size: 1539
 file_type: text/plain
 learning_resource_types:
 - Tools

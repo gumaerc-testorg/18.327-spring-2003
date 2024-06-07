@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example 7: Generation of biorthogonal scaling functions and wavelets.'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/51d15bd9a55cf249180919dc0a17dbb3_example7.m
+file_size: 420
 file_type: text/plain
 learning_resource_types:
 - Tools

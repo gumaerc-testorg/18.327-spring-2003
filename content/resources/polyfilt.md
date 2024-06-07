@@ -2,6 +2,7 @@
 content_type: resource
 description: Polyphase implementation of a filter
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/0857ff464fca9d0fed724105eb678682_polyfilt.m
+file_size: 538
 file_type: text/plain
 learning_resource_types:
 - Tools

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example 11: Smoothness of wavelet bases'
 file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/4620ef43428fbaaa842ae28f1ee8ac6e_example11.m
+file_size: 1384
 file_type: text/plain
 learning_resource_types:
 - Tools
