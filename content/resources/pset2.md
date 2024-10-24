@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/389fdc4bd3d21e6b760386280b7d1946_pset2.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/389fdc4bd3d21e6b760386280b7d1946_pset2.pdf
 file_size: 32036
 file_type: application/pdf
 learning_resource_types:

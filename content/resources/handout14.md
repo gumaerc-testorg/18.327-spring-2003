@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 14: Smoothness of Wavelet Bases: Convergence of the Cascade
   Algorithm (Condition E); Splines. Bases vs. Frames.'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/b681a52dd1ffc62eef7e1eb27222f94e_Handout14.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/b681a52dd1ffc62eef7e1eb27222f94e_Handout14.pdf
 file_size: 65867
 file_type: application/pdf
 learning_resource_types:

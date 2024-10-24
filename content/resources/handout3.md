@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 3: Filter Banks: Time Domain (Haar example) and Frequency Domain;
   Conditions for Alias Cancellation and no Distortion.'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/9ae8fd2b4313aea9cb1d828e3d431301_Handout3.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/9ae8fd2b4313aea9cb1d828e3d431301_Handout3.pdf
 file_size: 241299
 file_type: application/pdf
 learning_resource_types:
