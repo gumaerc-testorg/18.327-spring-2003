@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slide 2: Sampling Rate Change Operations: Upsampling and Downsampling;
   Fractional Sampling; Interpolation'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/aa27dbf675422d956f17129fe72d3852_Slides2.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/aa27dbf675422d956f17129fe72d3852_Slides2.pdf
 file_size: 221299
 file_type: application/pdf
 learning_resource_types:
