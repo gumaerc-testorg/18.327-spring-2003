@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slide 5: Modulation and Polyphase Representations: Noble Identities;
   Block Toeplitz Matrices and Block z-transforms; Polyphase Examples'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/78a5cba6ed01f45bdca93d41f5885af2_Slides5.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/78a5cba6ed01f45bdca93d41f5885af2_Slides5.pdf
 file_size: 79383
 file_type: application/pdf
 learning_resource_types:

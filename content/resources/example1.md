@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 1: Basic filters, upsampling and downsampling'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/cc6ca7b37ab21ab938e37440fa1d6a9d_example1.m
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/cc6ca7b37ab21ab938e37440fa1d6a9d_example1.m
 file_size: 1861
 file_type: text/plain
 learning_resource_types:
