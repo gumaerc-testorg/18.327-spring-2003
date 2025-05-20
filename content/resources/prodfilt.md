@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Function to generate half-band product filters
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8ed6f39e521dd3d076d2defba6a33a64_prodfilt.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8ed6f39e521dd3d076d2defba6a33a64_prodfilt.m
 file_size: 801
 file_type: text/plain
 learning_resource_types:

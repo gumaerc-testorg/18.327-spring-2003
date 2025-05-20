@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 16: Lifting: Ladder Structure for Filter Banks; Factorization
   of Polyphase Matrix into Lifting Steps; Lifting form of Refinement Equation.'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/6e127be1364a05bd0009578ebfbdcde4_Handout16.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/6e127be1364a05bd0009578ebfbdcde4_Handout16.pdf
 file_size: 101559
 file_type: application/pdf
 learning_resource_types:

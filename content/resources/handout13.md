@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 13: Accuracy of Wavelet Approximations (Condition A); Vanishing
   Moments; Polynomial Cancellation in Filter Banks.'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/99231bc0f90b87508c01a2e7f5a960e7_Handout13.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/99231bc0f90b87508c01a2e7f5a960e7_Handout13.pdf
 file_size: 61165
 file_type: application/pdf
 learning_resource_types:
