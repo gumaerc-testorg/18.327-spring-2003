@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 8: Mallat pyramid decomposition for functions in L^2'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/491a3d63151a12e73295f860a51cb866_example8.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/491a3d63151a12e73295f860a51cb866_example8.m
 file_size: 1486
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 4: 2-D image analysis'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/4dcdfcf8f4d30c9560701291fc702828_example4.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/4dcdfcf8f4d30c9560701291fc702828_example4.m
 file_size: 5600
 file_type: text/plain
 learning_resource_types:

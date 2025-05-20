@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 10: Polynomial cancellation in filter banks'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8c1beb567d8803002c888c78c95e57d0_example10.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/8c1beb567d8803002c888c78c95e57d0_example10.m
 file_size: 1157
 file_type: text/plain
 learning_resource_types:

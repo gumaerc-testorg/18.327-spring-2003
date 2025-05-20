@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slide 11: Orthogonal Wavelet Bases: Connection to Orthogonal Filters;
   Orthogonality in the Frequency Domain. Biorthogonal Wavelet Bases.'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/6397d22a8ad1997a9b135eed1790ed3e_Slides11.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/6397d22a8ad1997a9b135eed1790ed3e_Slides11.pdf
 file_size: 300470
 file_type: application/pdf
 learning_resource_types:
