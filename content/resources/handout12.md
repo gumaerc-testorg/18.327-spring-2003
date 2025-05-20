@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Handout 12: Mallat Pyramid Algorithm'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/fb4570f872fd8f6ee37ad3cbcb10e59b_Handout12.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/fb4570f872fd8f6ee37ad3cbcb10e59b_Handout12.pdf
 file_size: 42141
 file_type: application/pdf
 learning_resource_types:

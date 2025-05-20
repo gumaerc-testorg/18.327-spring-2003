@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example 12: Treatment of boundaries'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/ca0027bf2ca389da3f0e200915355886_example12.m
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/ca0027bf2ca389da3f0e200915355886_example12.m
 file_size: 1308
 file_type: text/plain
 learning_resource_types:

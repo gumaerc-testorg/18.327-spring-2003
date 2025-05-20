@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Handout 6: Matlab Wavelet Toolbox.'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/a26eaea00f7da8adfc07f302254148d5_Handout6.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/a26eaea00f7da8adfc07f302254148d5_Handout6.pdf
 file_size: 308973
 file_type: application/pdf
 learning_resource_types:

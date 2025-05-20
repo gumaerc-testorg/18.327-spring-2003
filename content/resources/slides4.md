@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slide 4: Filter Banks (contd.): Perfect Reconstruction; Halfband Filters
   and Possible Factorizations'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/efcb0bfba4a0e1859eb5b32e3913d1cc_Slides4.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/efcb0bfba4a0e1859eb5b32e3913d1cc_Slides4.pdf
 file_size: 104902
 file_type: application/pdf
 learning_resource_types:

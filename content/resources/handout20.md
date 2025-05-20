@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 20: M-band Wavelets: DFT Filter Banks and Cosine Modulated Filter
   Banks. Multiwavelets.'
-file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/f3bdc7ee67e4f1247633134ce1604609_Handout20.pdf
+file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/f3bdc7ee67e4f1247633134ce1604609_Handout20.pdf
 file_size: 74885
 file_type: application/pdf
 learning_resource_types:
