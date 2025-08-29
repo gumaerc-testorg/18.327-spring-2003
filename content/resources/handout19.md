@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 19: Numerical Solution of PDEs: Galerkin Approximation; Wavelet
   Integrals (Projection Coefficients, Moments and Connection Coefficients); Convergence'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/45c9ca702f94b8e2d505701c73636917_Handout19.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/45c9ca702f94b8e2d505701c73636917_Handout19.pdf
 file_size: 134845
 file_type: application/pdf
 learning_resource_types:

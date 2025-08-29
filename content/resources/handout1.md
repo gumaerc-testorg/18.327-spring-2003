@@ -4,7 +4,7 @@ description: 'Handout 1: Discrete-time filters: convolution; Fourier transform; 
   and
 
   highpass filters'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/c582ab14f4b0657b1b2a432724371653_Handout1.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/c582ab14f4b0657b1b2a432724371653_Handout1.pdf
 file_size: 138271
 file_type: application/pdf
 learning_resource_types:

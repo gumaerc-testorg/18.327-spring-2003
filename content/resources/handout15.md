@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 15: Signal and Image Processing: Finite Length Signals; Boundary
   Filters and Boundary Wavelets; Wavelet Compression Algorithms.'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/d22d96dea13c0396474b1d87439fc4d0_Handout15.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/d22d96dea13c0396474b1d87439fc4d0_Handout15.pdf
 file_size: 45321
 file_type: application/pdf
 learning_resource_types:
