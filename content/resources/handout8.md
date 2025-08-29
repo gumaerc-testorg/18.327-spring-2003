@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handout 8: Maxflat Filters: Daubechies and Meyer Formulas. Spectral
   Factorization.'
-file: /courses/18-327-wavelets-filter-banks-and-applications-spring-2003/29303d64110d5953075d8f3781ce61fe_Handout8.pdf
+file: /ol-ocw-studio-app/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/29303d64110d5953075d8f3781ce61fe_Handout8.pdf
 file_size: 80926
 file_type: application/pdf
 learning_resource_types:
