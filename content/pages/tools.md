@@ -41,7 +41,7 @@ Example 12: Treatment of boundaries ({{% resource_link ca0027bf-2ca3-89da-3f0e-2
 ### Java{{< sup "®" >}} Applets
 
 Inner Products of Functions  
-[Sums of a Trigonometric Series](http://www.math.drexel.edu/~pg/java/la_applets/FourierSynthesis/index.html)  
+{{% resource_link "80d2c797-7fc4-467f-a6c6-db9db35f175f" "Sums of a Trigonometric Series" %}}  
 Fourier Series  
 Gibbs _Phenomenon_  
 [Aliasing](/ans7870/18/18.06/javademo/Aliasing/)

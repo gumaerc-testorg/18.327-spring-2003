@@ -19,7 +19,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Text
 ----
 
-Strang, and Nguyen. _Wavelets and Filter Banks._ [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 1997.
+Strang, and Nguyen. _Wavelets and Filter Banks._ {{% resource_link "ed7a0a88-44fa-4656-ab8d-10f4e10e09da" "Wellesley-Cambridge Press" %}}, 1997.
 
 Course Structure
 ----------------
